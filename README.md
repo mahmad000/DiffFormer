@@ -3,9 +3,12 @@
 # DiffFormer
 Differential Spatial-Spectral Transformer for Hyperspectral Image Classification
 
-# [2024] Differential Spatial-Spectral Transformer for Hyperspectral Image Classification
+# Differential Spatial-Spectral Transformer for Hyperspectral Image Classification
 
-## This demo is associated with [Differential Spatial-Spectral Transformer for Hyperspectral Image Classification](), Submitted for publication.
+## This demo is associated with [Differential Spatial-Spectral Transformer for Hyperspectral Image Classification](https://arxiv.org/abs/2412.17350), Submitted for publication.
+
+![DiffFormer](https://github.com/user-attachments/assets/41f4c248-2b08-4c93-8bbb-d598c4267b7d)
+
 
 # Hyperspectral datasets
 
