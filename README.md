@@ -1,15 +1,15 @@
-## This demo is associated with [Differential Spatial-Spectral Transformer for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10955699), IEEE JSTARS.
+## This demo is associated with [Differential Spatial-Spectral Transformer for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/10955699?source=authoralert), IEEE JSTARS.
 ![DiffFormer](https://github.com/user-attachments/assets/41f4c248-2b08-4c93-8bbb-d598c4267b7d)
 
 
 @ARTICLE{10955699,
   author={Ahmad, Muhammad and Mazzara, Manuel and Distefano, Salvatore and Khan, Adil Mehmood and Ullo, Silvia Liberata},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
-  title={DiffFormer: a Differential Spatial-Spectral Transformer for Hyperspectral Image Classification}, 
+  title={DiffFormer: A Differential Spatial-Spectral Transformer for Hyperspectral Image Classification}, 
   year={2025},
-  volume={},
+  volume={18},
   number={},
-  pages={1-11},
+  pages={10419-10428},
   doi={10.1109/JSTARS.2025.3558889}}
 
 # Hyperspectral datasets
